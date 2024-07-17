@@ -34,6 +34,7 @@ E-commerce platforms can utilize decision trees to build recommendation systems.
 **Operational Decision Making:**
 
 Decision trees can assist in making operational decisions such as resource allocation, inventory management, and supply chain optimization. By considering various factors (e.g., demand forecasts, production costs, delivery times), businesses can make informed decisions that enhance efficiency and reduce costs.
+
 **Churn Prediction and Customer Retention:**
 
 Businesses can predict customer churn (attrition) using decision trees by analyzing factors such as customer behavior, satisfaction levels, and engagement metrics. This allows proactive measures to be taken to retain customers through targeted retention strategies.
